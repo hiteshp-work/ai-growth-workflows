@@ -21,6 +21,13 @@ Production-ready prompt architectures, competitive intelligence automations, and
 
 ---
 
+## 🤖 Claude Skill Co-Pilot
+
+Deploy this repository as an automated copy and competitive intelligence copilot in Claude Projects:
+* [`/claude-skills/ai-growth-copilot.md`](./claude-skills/ai-growth-copilot.md) — XML system instructions enforcing 5 psychological ad angles, AEO share-of-voice audits, and sales battlecards.
+
+---
+
 ## 📂 Included Prompts & Scripts
 * `/prompts/b2b-ad-variant-generator.md` — High-velocity ad copy generation system prompt.
 * `/prompts/aeo-brand-visibility-checker.md` — Structured audit prompts for generative engine visibility.
